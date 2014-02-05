@@ -44,6 +44,8 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem "rails-erd", group: :development
+
 require 'v8'
 gem 'therubyracer'
 
